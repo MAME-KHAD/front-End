@@ -1,0 +1,75 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar ul li{
+    padding: 12px;
+    list-style: none;
+}
+.connexion{
+    background-color: #ef7431;
+    height: 100px;
+    color: white;
+}
+.connexion p{
+    margin-left: 80%;
+    font-size: 1.8rem;
+    font-family: calibri;
+
+}
+.container{
+    background-color: #034f89;
+    height: 64vh;
+}
+.container img{
+    margin-left: 50%;
+}
+.formulaire{
+    background-color: white;
+    width: 46%;
+    position: absolute;
+    bottom: 1%;
+    height: 68vh;
+    margin-left: 50px;
+    border-radius: 6px;
+    padding: 10px;
+    margin-top: auto;
+}
+.formulaire h1{
+    color: #034f89;
+    margin-left: 100px;
+
+}
+.formulaire p{
+    margin-left: 100px;
+    position: relative;
+    top: -20px;
+}
+.formulaire .form input{
+    width: 500px;
+    height: 20px;
+    margin: 10px;
+}
+.formulaire h5{
+    margin-top: 25px;
+    color: #034f89;
+    position: absolute;
+    margin: 0%;
+}
+.formulaire button{
+    margin-left: 450px;
+    color: white;
+    background-color: #034f89;
+}
+.formulaire h6{
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+.pr{
+    margin-top: 10%;
+}
